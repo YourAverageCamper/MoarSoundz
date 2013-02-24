@@ -1,0 +1,7 @@
+name: MoarSoundz
+version: 1.7
+description: Add more sounds to the gameplay
+main: me.zeus.MoarSoundz.Main
+commands:
+  moarsoundz:
+    description: Reloads config
